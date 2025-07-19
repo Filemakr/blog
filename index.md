@@ -1,8 +1,5 @@
----
-layout: default
-title: Home
+layout: home
+title: Welcome to Filemakr Blog
 ---
 
-# Welcome to My Blog
-
-This is a GitHub Pages-powered Jekyll blog.
+Check out our latest posts below.
