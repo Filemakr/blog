@@ -1,0 +1,33 @@
+---
+---
+
+@import "minima";
+
+.home .post-list {
+  display: grid;
+  gap: 1.5rem;
+  padding-top: 1.5rem;
+}
+
+.home .post-list > li {
+  background: #fafafa;
+  padding: 1.2rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+.home .post-list h3 {
+  margin-bottom: 0.3rem;
+  font-size: 1.3rem;
+}
+
+.home .post-meta {
+  font-size: 0.9rem;
+  color: #888;
+  margin-bottom: 0.6rem;
+}
+
+.home .post-list p {
+  margin-top: 0.3rem;
+  color: #444;
+}
