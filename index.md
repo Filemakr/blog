@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-custom
 title: "Filemakr Blog"
 description: "Final Year Projects & Guides"
 ---
