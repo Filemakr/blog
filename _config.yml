@@ -1,10 +1,10 @@
 title: Filemakr Blog
-description: Blog powered by Jekyll and GitHub Pages
+description: Final Year Projects & Guides
 baseurl: "/blog"
 url: "https://filemakr.github.io"
 
 theme: minima
-permalink: /:year/:month/:day/:title.html
+permalink: /:title/
 
 plugins:
   - jekyll-feed
