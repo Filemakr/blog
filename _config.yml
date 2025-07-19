@@ -1,0 +1,8 @@
+title: My GitHub Blog
+description: Blog powered by Jekyll and GitHub Pages
+baseurl: "/php-template"  # if your repo is NOT your username.github.io
+url: "https:/filemakr.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
