@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-custom
 title: "Ace Your Final Year with MERN Social Network Project + IEEE Report"
 date: "2025-06-30 15:01:06.000 +0000"
 description: "Get a ready-to-demo MERN social networking project with source code & IEEE report—perfect for B.Tech, MCA, BCA final years. Download now!"
