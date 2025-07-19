@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Task Manager App Using Mern"
-date: "2025-06-28T10:53:01.000Z"
+date: "2025-06-28"
 description: "Download a ready-to-submit MERN Task Manager project with IEEE report. Perfect for BCA, MCA, B.Tech final-year students. Finish fast & score high!"
 tags: ["MERN stack project", "final year project", "task manager app", "MERN source code", "IEEE report", "BCA final year project", "MCA final year project", "B.Tech final year project", "React project", "Node.js project"]
 category: "Source Code"
