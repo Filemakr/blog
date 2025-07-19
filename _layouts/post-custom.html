@@ -6,24 +6,6 @@
   <meta name="description" content="{{ page.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      plugins: [tailwind.typography],
-    };
-  </script>
-  <style>
-    /* Improve readability in dark/light */
-    .prose img {
-      margin-top: 1rem;
-      margin-bottom: 1rem;
-      border-radius: 0.5rem;
-    }
-    .prose pre {
-      background: #f3f4f6;
-      padding: 1rem;
-      border-radius: 0.5rem;
-    }
-  </style>
 </head>
 <body class="bg-white text-gray-800">
 
@@ -45,7 +27,7 @@
       <img src="{{ page.og_image }}" alt="{{ page.title }}" class="rounded-lg shadow mb-6 w-full">
     {% endif %}
 
-    <div class="prose prose-lg max-w-none">
+    <div class="prose max-w-none">
       {{ content }}
     </div>
   </div>
