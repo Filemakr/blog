@@ -3,6 +3,9 @@ description: Final Year Projects & Guides
 baseurl: "/blog"
 url: "https://filemakr.github.io"
 
+sass:
+  style: compressed
+
 theme: minima
 permalink: /:title/
 
