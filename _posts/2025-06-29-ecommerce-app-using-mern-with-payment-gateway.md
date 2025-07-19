@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-custom
 title: "Ecommerce App Using Mern With Payment Gateway"
 date: "2025-06-29 15:01:42.000 +0000"
 description: "Get full MERN stack ecommerce app source code & IEEE report. Perfect for final-year students. Instant download—secure top marks easily!"
