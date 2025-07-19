@@ -1,8 +1,8 @@
-title: My GitHub Blog
-description: Blog powered by Jekyll and GitHub Pages
-baseurl: "/blog"  # if your repo is NOT your username.github.io
-url: "https:/filemakr.github.io"
+title: Filemakr Blog
+description: Final Year Projects & Guides
+baseurl: "/blog"     # 👈 required for GitHub Pages project sites
+url: "https://filemakr.github.io"
 
-theme: minima
+theme: minima        # or any Jekyll theme
 plugins:
   - jekyll-feed
