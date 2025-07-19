@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% if page.description %}
+      <meta name="description" content="{{ page.description }}">
+    {% endif %}
+
+    {% if page.keywords %}
+      <meta name="keywords" content="{{ page.keywords | join: ', ' }}">
+    {% endif %}
+
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon" />
+  </head>
+
+  <body class="bg-gray-100 text-gray-900 font-sans">
+    <header class="bg-white shadow-md py-4 mb-8">
+      <div class="max-w-7xl mx-auto px-4">
+        <h1 class="text-2xl font-bold">
+          <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+        </h1>
+        <p class="text-sm text-gray-600">{{ site.description }}</p>
+      </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4">
+      {{ content }}
+    </main>
+
+    <footer class="bg-white text-center py-6 mt-12 text-sm text-gray-500 border-t">
+      © {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.
+    </footer>
+  </body>
+</html>
