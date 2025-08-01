@@ -4,7 +4,7 @@ title: "Download Payroll Management M.Tech Project Report (IEEE Format)"
 date: "2025-07-12 15:00:59.000 +0000"
 description: "Instantly download a high-scoring, IEEE-format Payroll Management project report with source code for your final year submission."
 tags: ["#PayrollManagement", "#MTechProjects", "#IEEEFormat", "#FinalYearProject", "#SourceCode", "#ProjectReport", "#ERDiagram", "#DFD", "#StudentProjects"]
-category: "null"
+category: "Source Code"
 slug: "payroll-management-mtech-project-report-with-ieee-standard-format"
 keywords: ["payroll management mtech project", "ieee project report download", "final year project source code", "payroll system documentation", "mtech ieee projects", "payroll management system report", "er diagram payroll project", "dfd payroll management", "ready made mtech projects"]
 
