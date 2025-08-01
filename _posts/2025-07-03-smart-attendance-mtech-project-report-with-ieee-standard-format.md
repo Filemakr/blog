@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-custom
 title: "Smart Attendance M.Tech Project Report IEEE Format – Instant Download"
 date: "2025-07-03 06:54:32.000 +0000"
 description: "Download Smart Attendance M.Tech project report in IEEE format with code, diagrams, and Gantt chart. Perfect for urgent final-year submissions!"
