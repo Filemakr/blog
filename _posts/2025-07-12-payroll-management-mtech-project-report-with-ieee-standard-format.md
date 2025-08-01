@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-custom
 title: "Download Payroll Management M.Tech Project Report (IEEE Format)"
 date: "2025-07-12 15:00:59.000 +0000"
 description: "Instantly download a high-scoring, IEEE-format Payroll Management project report with source code for your final year submission."
