@@ -4,7 +4,7 @@ title: "Smart Attendance M.Tech Project Report IEEE Format – Instant Download"
 date: "2025-07-03 06:54:32.000 +0000"
 description: "Download Smart Attendance M.Tech project report in IEEE format with code, diagrams, and Gantt chart. Perfect for urgent final-year submissions!"
 tags: ["Smart Attendance", "M.Tech Projects", "IEEE Format", "Final Year Project", "Source Code", "Project Documentation", "ER Diagrams", "DFD Diagrams", "Gantt Chart", "Quick Submission"]
-category: "null"
+category: "Project Report"
 slug: "smart-attendance-mtech-project-report-with-ieee-standard-format"
 keywords: ["smart attendance project", "mtech final year project", "ieee format report", "project source code download", "er dfd diagrams", "gantt chart mtech", "btech project documentation", "last minute project report", "plagiarism free project"]
 
